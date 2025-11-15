@@ -4,8 +4,8 @@
 Currently learning Java, DSA, and Mern Stack.
 
 ## 🚀 Skills  
-- *Languages: Java, C++, JavaScript  
-- *Web:* HTML, CSS, React  
+- Languages: Java, C++, JavaScript  
+- Web:HTML, CSS, React  
 - Tools: GitHub, VS Code  
 - Databases: MongoDB, MySQL  
 
